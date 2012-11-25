@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homolkam_FubuTODO", "homolkam_FubuTODO\homolkam_FubuTODO.csproj", "{861F5B53-0782-4FE4-B7C4-3F339C5B2720}"
 EndProject
 Global
